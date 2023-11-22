@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "148b4c750e38cf05",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e2a69b733fd7300",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "078c50fece896540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编码工具/VIM/IDEA VIM/IDEA VIM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70f0de0f55b11fd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e0f8c82e00e0c2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1154dc62aaa52c3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56e8497e16476e9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "721d1c1dcbda4373",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e0d0e4452d27cca",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbd766934d07db81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d0bf1ce16827005",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "编码工具/VIM/IDEA VIM/IDEA VIM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dd9d7d484e0885b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "编码工具/VIM/IDEA VIM/IDEA VIM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "843c8e801cbb22c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07e5deea58f473d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "编码工具/VIM/IDEA VIM/IDEA VIM.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "078c50fece896540",
+  "lastOpenFiles": [
+    "编码工具/VIM/IDEA VIM/ideavimrc.md",
+    "Home.md",
+    "编码工具/VIM/IDEA VIM/IDEA VIM.md",
+    "编码工具/VIM/VIM.md",
+    "编码工具/VIM/IDEA VIM/ideavimrc",
+    "编码工具/VIM/IDEA VIM",
+    "编码工具/VIM/未命名.md",
+    "编码工具/VIM",
+    "编码工具",
+    "config/dateview/Heatmap/view.js",
+    "config/dateview/Heatmap/view.css",
+    "config/dateview/Heatmap",
+    "config/dateview",
+    "config/新建文件夹",
+    "config/Heatmap/view.js",
+    "未命名.canvas"
+  ]
+}
