@@ -4,22 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "1e2a69b733fd7300",
+        "id": "cfabbf3cd705f9fb",
         "type": "tabs",
         "children": [
           {
-            "id": "078c50fece896540",
+            "id": "a95b34a5f93b66cc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "91acea9be19c66b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编码工具/VIM/IDEA VIM/IDEA VIM.md",
+                "file": "编码工具/VIM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f339947263ac130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIM正则.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -70,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 202.5
   },
   "right": {
     "id": "3e0d0e4452d27cca",
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编码工具/VIM/IDEA VIM/IDEA VIM.md",
+                "file": "VIM正则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编码工具/VIM/IDEA VIM/IDEA VIM.md",
+                "file": "VIM正则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,12 +153,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编码工具/VIM/IDEA VIM/IDEA VIM.md"
+                "file": "VIM正则.md"
               }
+            }
+          },
+          {
+            "id": "8aeee3ab77739010",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -140,20 +175,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "078c50fece896540",
+  "active": "4f339947263ac130",
   "lastOpenFiles": [
-    "编码工具/VIM/IDEA VIM/ideavimrc.md",
+    "编码工具/VIM.md",
+    "VIM正则.md",
     "Home.md",
-    "编码工具/VIM/IDEA VIM/IDEA VIM.md",
-    "编码工具/VIM/VIM.md",
+    "编码工具/IDEA VIM.md",
+    "编码工具/ideavimrc.md",
+    "编码工具",
+    "未命名.canvas",
+    "未命名 4.md",
+    "未命名 3.md",
+    "未命名 2.md",
+    "未命名 1.md",
+    "未命名.md",
     "编码工具/VIM/IDEA VIM/ideavimrc",
     "编码工具/VIM/IDEA VIM",
     "编码工具/VIM/未命名.md",
@@ -163,8 +208,6 @@
     "config/dateview/Heatmap/view.css",
     "config/dateview/Heatmap",
     "config/dateview",
-    "config/新建文件夹",
-    "config/Heatmap/view.js",
-    "未命名.canvas"
+    "config/新建文件夹"
   ]
 }
